@@ -13,16 +13,16 @@ https://github.com/andrewrapp/xbee-arduino How to use ? ==> Clone & download, af
 Well done
 
 
-ÇÑ¸²´ëÇÐ±³ Ä¸½ºÅæ µðÀÚÀÎ AREGS(½Ç½Ã°£ ´ëÇÇ À¯µµ ½Ã½ºÅÛ)
+í•œë¦¼ëŒ€í•™êµ ìº¡ìŠ¤í†¤ ë””ìžì¸ AREGS(ì‹¤ì‹œê°„ ëŒ€í”¼ ìœ ë„ ì‹œìŠ¤í…œ)
 
-±âÁ¸ ºñ»ó±¸´Â °íÁ¤µÈ ¹æÇâÀ» Áö½ÃÇÏÁö¸¸, AREGSÀÇ ºñ»ó±¸´Â È­Àç, Àç³­ »óÈ²¿¡ µû¶ó ºñ»ó±¸ÀÇ À¯µµ¹æÇâÀ» ÀÚµ¿, ¼öµ¿À¸·Î ¼³Á¤ÇÒ ¼ö ÀÖ´Ù.
-
-
-
-ÆÀ¿ø : ¹ÚÁöÈÄ, ±èº´¿î, ±è±âÇõ
+ê¸°ì¡´ ë¹„ìƒêµ¬ëŠ” ê³ ì •ëœ ë°©í–¥ì„ ì§€ì‹œí•˜ì§€ë§Œ, AREGSì˜ ë¹„ìƒêµ¬ëŠ” í™”ìž¬, ìž¬ë‚œ ìƒí™©ì— ë”°ë¼ ë¹„ìƒêµ¬ì˜ ìœ ë„ë°©í–¥ì„ ìžë™, ìˆ˜ë™ìœ¼ë¡œ ì„¤ì •í•  ìˆ˜ ìžˆë‹¤.
 
 
 
-¼ö»óÀÌ·Â : ÇÑ¸²´ëÇÐ±³ Ä¸½ºÅæ µðÀÚÀÎ °æÁø´ëÈ¸ µ¿»ó
+íŒ€ì› : ë°•ì§€í›„, ê¹€ë³‘ìš´, ê¹€ê¸°í˜
+
+
+
+ìˆ˜ìƒì´ë ¥ : í•œë¦¼ëŒ€í•™êµ ìº¡ìŠ¤í†¤ ë””ìžì¸ ê²½ì§„ëŒ€íšŒ ë™ìƒ
 
 
