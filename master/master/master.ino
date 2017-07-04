@@ -14,24 +14,26 @@ void data_send(ZBTxRequest& zbTx)
       xbee.send(zbTx); // 데이터 전송
       
       if (xbee.readPacket(500)) { // ACK를 받음           
-        if (xbee.getResponse().getApiId() == ZB_TX_STATUS_RESPONSE) { // 오 데이터 들어옴 굿굿
+        if (xbee.getResponse().getApiId() == ZB_TX_STATUS_RESPONSE) { // data ok
           xbee.getResponse().getZBTxStatusResponse(txStatus); // txStatus에 성공 여부를 저장
 
           if (txStatus.getDeliveryStatus() == SUCCESS) { // 50byte를 읽음, txStatus에 ACK이 정상적으로 날라왔다면 SUCCESS 매크로가 들어옴.
               Serial.println("[OK] Send Success"); // 보내기 성공
               retry = false; // 정상적으로 보냈으니 반복해서 보낼 필요 없음
           } else {
-              Serial.println("[FAIL] Send Fail"); // ㅈ댐;; 안갔음
-              retry = true; // 다시 보내보쟈
+              Serial.println("[FAIL] Send Fail"); // No
+              retry = true; // 다시
               continue; // while로 가서 다시 send 실행
           }
         }
      } 
     else {
-        Serial.println("FAIL] Unknown Error"); // 이게 뭔 에러당가;; 알수음슴
+        Serial.println("FAIL] Unknown Error"); // Unknown error
     }
   }
 }
+
+// Written by ByoungUn KIM
 
 static int inf = 99; // 무한대 값
 
