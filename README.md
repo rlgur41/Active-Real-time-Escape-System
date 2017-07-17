@@ -32,7 +32,13 @@ Coordinator node :  https://github.com/rlgur41/Active-Real-time-Escape-System/tr
 
 Router Node : https://github.com/rlgur41/Active-Real-time-Escape-System/tree/master/Node/capstone_pj
 
+기존의 비상구
 ![Alt text](https://github.com/rlgur41/Active-Real-time-Escape-System/blob/master/20170703_135308.jpg)
+
+
+제안하는 시스템
+![Alt text](https://github.com/rlgur41/Active-Real-time-Escape-System/blob/master/20170524_231628.jpg)
+
 
 
 
