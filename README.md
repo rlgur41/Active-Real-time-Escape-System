@@ -32,4 +32,8 @@ Coordinator node :  https://github.com/rlgur41/Active-Real-time-Escape-System/tr
 
 Router Node : https://github.com/rlgur41/Active-Real-time-Escape-System/tree/master/Node/capstone_pj
 
+![Alt text](https://github.com/rlgur41/Active-Real-time-Escape-System/blob/master/20170703_135308.jpg)
+
+
+
 
